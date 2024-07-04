@@ -1,0 +1,22 @@
+type: AttributeCrafter
+name: "Grow chamber (Fern)"
+size: 2
+craftTime: 600
+liquidCapacity: 180
+consumes: {
+  power: 0.5
+  liquids: [
+    water/0.2
+  ]
+  items: [
+    dirt/1
+    seeds-fern/2
+  ]
+}
+outputItem: fern/5
+category: crafting
+requirements: [
+  lead/30
+  titanium/20
+  silicon/12
+]

@@ -1,0 +1,21 @@
+type: AttributeCrafter
+name: "Sieve"
+size: 2
+craftTime: 80
+consumes: {
+  power: 0.1
+  liquids: [
+    water/0.2
+  ]
+  items: [
+    sand/2
+  ]
+}
+outputItem: seeds-fern/1
+category: crafting
+requirements: [
+  copper/18
+  lead/10
+  titanium/2
+  silicon/5
+]

@@ -1,0 +1,17 @@
+type: AttributeCrafter
+name: "Plant crusher"
+size: 2
+craftTime: 100
+consumes: {
+  power: 0.2
+  items: [
+    fern/1
+  ]
+}
+outputItem: biomas/1
+category: crafting
+requirements: [
+  lead/20
+  titanium/10
+  silicon/5
+]
